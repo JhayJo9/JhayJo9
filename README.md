@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhay Peñaloza
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhay TheGosu
 =====================================================================================================================================
 
 Currently 2nd year college student
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [Simple website with html and css](http://jhayjo9.github.io/essential-for-IT-student/)
-*   ⚡  Gosu??????
+*   ⚡  willing to collaborate with projects
 
                     
 ### Skills
