@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Currently 2nd year college student
 
 *   🌍  I'm based in Philippines
-*   🖥️  See my portfolio at [Simple website with html and css](http://jhayjo9.github.io/essential-for-IT-student/)
 *   ⚡  willing to collaborate with projects
 
                     
