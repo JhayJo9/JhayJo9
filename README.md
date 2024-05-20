@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Currently 2nd year college student
-
-*   🌍  I'm based in Philippines
 *   ⚡  willing to collaborate with projects
 
                     
